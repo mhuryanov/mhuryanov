@@ -10,10 +10,7 @@ With rich experience in full-stack development, I have held various positions as
 
 I worked with numerous clients from all around the world from early startups to well-established companies. I always seek new opportunities for cooperation on projects around interesting dashboards or landing pages.
 
-My profiles with portfolios: 
+My portfolios: 
 
 https://mhuryanov.github.io/
 
-https://www.linkedin.com/in/maxim-huryanov-ba9499216/
-
-https://behance.net/maximhn
